@@ -1,0 +1,6 @@
+Functions Defined
+The core of extensible programming is defining functions. 
+Python allows mandatory and optional arguments, keyword arguments, and even arbitrary argument lists. 
+More about defining functions in Python 3
+Python is a programming language that lets you work quickly
+and integrate systems more effectively.
